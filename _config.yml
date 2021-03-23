@@ -71,10 +71,10 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'G-FL29Q4YZYX'            # Format: UA-xxxxxx-xx
-ga_domain: litrane.github.io
+#ga_track_id: 'G-FL29Q4YZYX'            # Format: UA-xxxxxx-xx
+#ga_domain: litrane.github.io
 
-
+ba_track_id: 88c7596000ab93c6ef6bc654ec6fd2a2
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
